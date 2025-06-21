@@ -1,2 +1,2 @@
-# retinal-detachiert-staging
+# RDS
 Repository of the codebase
